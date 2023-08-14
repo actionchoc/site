@@ -1,6 +1,6 @@
 ---
 title: "Activités"
-order: 1
+order: 2
 ---
 # Informer
 Plusieurs actions pour informer le grand public sur la problématique du chocolat sont en cours. 
