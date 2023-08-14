@@ -12,4 +12,4 @@ order: 1
 
 - [Baromètre du cacao](https://cocoabarometer.org/fr/) Cette organisation regroupe plusieurs ONG actives dans le domaine du cacao et fourni des articles fouillés et détaillés.
 
-### reportages vidéo 
+### Reportages vidéo 
