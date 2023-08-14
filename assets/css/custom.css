@@ -2,6 +2,10 @@
     --couleur-primaire : #6C5353;
 }
 
+h2 {
+color: #897373;
+}
+
 footer {
    display: none;
 }
