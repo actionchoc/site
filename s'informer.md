@@ -10,4 +10,6 @@ order: 1
 
 ## Articles disponible sur le web
 
+- [Baromètre du cacao](https://cocoabarometer.org/fr/) Cette organisation regroupe plusieurs ONG actives dans le domaine du cacao et fourni des articles fouillés et détaillés.
+
 ## reportage vidéo 
