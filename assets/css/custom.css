@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #6C5353;
 }
+
+footer {
+   display: none;
+}
