@@ -19,8 +19,7 @@ Il est temps de dire la vérité : le chocolat n’est pas durable et est produi
 Informé-es et conscient-es de ces faits, la population Suisse et Ivoirienne se mobilise pour demander un changement dans le marché du chocolat. 
 
 
-Nous déclarons que 
-
+Nous déclarons que :
 - L'éducation et la vie des enfants africains a autant de valeur que celle des enfants suisses.
 - Tout travail agricole pratiqué comme activité principale (cinq jours par semaine) doit être rémunéré afin de permettre le minimum vital des personnes travaillant dans les champs et de leur foyer.
 - Le revenu minimum vital doit permettre à un foyer d'avoir un niveau de vie décent. Cela comprend un accès à la nourriture, l’eau, le logement, l’éducation (inclut la scolarisation des enfants), les soins de santé, le transport et des réserves en cas d’imprévu.
@@ -28,3 +27,21 @@ Nous déclarons que
 - Nous avons tou-tes une responsabilité proportionnelle à notre pouvoir d’action : producteur-ices de cacao, transporteurs, négociants, transformateurs, supermarchés, consommateur-ices.
 - Les personnes en charge de fonctions politiques ou économiques ont une responsabilité et un pouvoir d’action plus particulier pour faire changer le système en faveur des droits humains.
 - Un marché sans régulations ne peut être éthique. 
+
+Nous nous mobilisons :
+- Par amour pour nos frères et sœurs des pays du sud et des générations futures.
+- Par respect et dans la gratitude de la beauté de la forêt vierge.
+- En valorisant les voix des cacaoculteur-ices.
+- En prenant des décisions sur les actions menées en gouvernance partagée.
+- Sans avoir peur de questionner et de déranger les consciences.
+- Dans la non-violence.
+- Avec une implication à l’échelle de nos moyens et de notre temps.
+- En tentant de nous approcher d’une cohérence entre nos valeurs, nos discours et notre vie quotidienne.
+
+Nous puisons nos ressources :
+- Au travers de nos proches soutenant-es et bienveillant-es.
+- En prenant du temps de repos essentiel à notre bonne santé physique et mentale.
+
+Déclaration pour les croyant-es :
+- Nous voulons demander à Dieu le courage d’aimer notre prochain ami ou ennemi.
+- Nous croyons que nous dépendons de Dieu et de la force que sa vie nous donne pour continuer de dénoncer et de mener une vie à contre-courant des pouvoirs destructeurs de notre monde. 
