@@ -44,4 +44,4 @@ Nous puisons nos ressources :
 
 Déclaration pour les croyant-es :
 - Nous voulons demander à Dieu le courage d’aimer notre prochain ami ou ennemi.
-- Nous croyons que nous dépendons de Dieu et de la force que sa vie nous donne pour continuer de dénoncer et de mener une vie à contre-courant des pouvoirs destructeurs de notre monde. 
+- Nous croyons que nous dépendons de Dieu et de la force que sa vie nous donne pour continuer de dénoncer les injustices et de mener une vie à contre-courant des pouvoirs destructeurs de notre monde. 
