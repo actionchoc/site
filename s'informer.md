@@ -61,6 +61,8 @@ Les causes ne sont pas liées à un seul acteur mais à toute une chaîne. Le po
 
 ### Articles disponible sur le web
 
-- [Baromètre du cacao](https://cocoabarometer.org/fr/) Cette organisation regroupe plusieurs ONG actives dans le domaine du cacao et fourni des articles fouillés et détaillés.
+- Source 1: Fountain, A. Huetz-Adams, F. (2022), Le baromètre du cacao.  [Baromètre du cacao](https://cocoabarometer.org/fr/) Cette organisation regroupe plusieurs ONG actives dans le domaine du cacao et fourni des articles fouillés et détaillés.
+
+- Source 2: [Plate-forme suisse du cacao durable](https://www.kakaoplattform.ch/fr/)
 
 ### Reportages vidéo 
