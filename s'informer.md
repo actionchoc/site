@@ -65,4 +65,15 @@ Les causes ne sont pas liées à un seul acteur mais à toute une chaîne. Le po
 
 - Source 2: [Plate-forme suisse du cacao durable](https://www.kakaoplattform.ch/fr/)
 
+- Source 4 : Gérand, C (2023), Le Cacao a Dévoré La Forêt Ivoirienne. [article](https://rainforestjournalismfund.org/fr/stories/le-cacao-devore-la-foret-ivoirienne)
+
+- Source 5 : Braunschweig, T & Classen, O. (2020). Travail des enfants sur les plantations de cacao : deux décennies de perdues. [article Public Eye] (https://www.publiceye.ch/fr/thematiques/negoce-agricole/travail-des-enfants-sur-les-plantations-de-cacao-deux-decennies-de-perdues)
+
+- Source 6 : Coalition pour des multinationales résponsables. [site] (https://responsabilite-multinationales.ch/) La coalition informe les suisses et les autorités des problématiques grave qui surgissent lorsque les multinationales n'ont pas de régulation pour défendre les droits humains. Elle lance des pétitions et des initiatives sur ce sujet. 
+
+- Source 7: Public Eye dossier sur le cacao [Public Eye] (https://www.publiceye.ch/fr/tag/chocolat) On y trouve quantité d'articles journalistiques de qualité.
+
+
 ### Reportages vidéo 
+
+- Source 3: Interview LIMIT de Kalvin Soiresse. Comprendre l'Écologie Décoloniale ! [Interview](https://youtu.be/HB7pxi2rLwo) 
