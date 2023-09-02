@@ -2,7 +2,7 @@
 title: "S'informer"
 order: 1
 ---
-## Articles publié par _ActionChoc_
+## Articles publiés par _ActionChoc_
 
 ### Comprendre les enjeux sociaux et écologiques du cacao : un résumé du baromètre du cacao 2022
 
@@ -61,17 +61,19 @@ Les causes ne sont pas liées à un seul acteur mais à toute une chaîne. Le po
 
 ### Articles disponible sur le web
 
-- Source 1: Fountain, A. Huetz-Adams, F. (2022), Le baromètre du cacao.  [Baromètre du cacao](https://cocoabarometer.org/fr/) Cette organisation regroupe plusieurs ONG actives dans le domaine du cacao et fourni des articles fouillés et détaillés.
+- Source 1 : Fountain, A. Huetz-Adams, F. (2022), Le baromètre du cacao.  [Baromètre du cacao](https://cocoabarometer.org/fr/) Cette organisation regroupe plusieurs ONG actives dans le domaine du cacao et fourni des articles fouillés et détaillés.
 
-- Source 2: [Plate-forme suisse du cacao durable](https://www.kakaoplattform.ch/fr/)
+- Source 2 : [Plate-forme suisse du cacao durable](https://www.kakaoplattform.ch/fr/)
 
 - Source 4 : Gérand, C (2023), Le Cacao a Dévoré La Forêt Ivoirienne. [article](https://rainforestjournalismfund.org/fr/stories/le-cacao-devore-la-foret-ivoirienne)
 
-- Source 5 : Braunschweig, T & Classen, O. (2020). Travail des enfants sur les plantations de cacao : deux décennies de perdues. [article Public Eye] (https://www.publiceye.ch/fr/thematiques/negoce-agricole/travail-des-enfants-sur-les-plantations-de-cacao-deux-decennies-de-perdues)
+- Source 5 : Braunschweig, T & Classen, O. (2020). Travail des enfants sur les plantations de cacao : deux décennies de perdues. [article Public Eye]
+(https://www.publiceye.ch/fr/thematiques/negoce-agricole/travail-des-enfants-sur-les-plantations-de-cacao-deux-decennies-de-perdues)
 
 - Source 6 : Coalition pour des multinationales résponsables. [site] (https://responsabilite-multinationales.ch/) La coalition informe les suisses et les autorités des problématiques grave qui surgissent lorsque les multinationales n'ont pas de régulation pour défendre les droits humains. Elle lance des pétitions et des initiatives sur ce sujet. 
 
-- Source 7: Public Eye dossier sur le cacao [Public Eye] (https://www.publiceye.ch/fr/tag/chocolat) On y trouve quantité d'articles journalistiques de qualité.
+- Source 7 : Public Eye dossier sur le cacao [Public Eye] 
+(https://www.publiceye.ch/fr/tag/chocolat) On y trouve quantité d'articles journalistiques de qualité.
 
 
 ### Reportages vidéo 
