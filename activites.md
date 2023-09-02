@@ -9,4 +9,4 @@ Un article sur la Gazette d'XR Genève est paru en septembre 2023.
 Une soirée débat à Renens est en cours de préparation pour cet automne.
 
 ## Actions
-Pour le moment aucune action publique n'est prévue mais cela ne saurait tarder. 
+Venez manifester à Berne le 30 septembre. (https://www.manif-climat.ch/) 
