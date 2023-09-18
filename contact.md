@@ -2,4 +2,6 @@
 title: "Contact"
 order: 3
 ---
-Pour toutes questions ou demandes, vous pourrez nous contacter par mail à actionchoc@protonmail.com 
+Vous souhaitez rejoindre le mouvement ou être informé-e des différentes actions effectuées par ActionChoc, n'hésitez pas à nous écrire un mail.
+
+actionchoc-contact@proton.me 
