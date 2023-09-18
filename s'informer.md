@@ -96,7 +96,7 @@ Le chocolat de Nestlé et de Lindt, précieux symbole de la Suisse, est tout à 
 
 - Source 6 : [Coalition pour des multinationales résponsables](https://responsabilite-multinationales.ch/) La coalition informe les suisses et les autorités des problématiques grave qui surgissent lorsque les multinationales n'ont pas de régulation pour défendre les droits humains. Elle lance des pétitions et des initiatives sur ce sujet. 
 
-- Source 7 : Public Eye dossier sur le cacao [Public Eye](https://www.publiceye.ch/fr/tag/chocolat) On y trouve quantité d'articles journalistiques de qualité.
+- Source 7 : [Public Eye](https://www.publiceye.ch/fr/tag/chocolat) Dossier sur le cacao. On y trouve quantité d'articles journalistiques de qualité.
 
 
 ### Reportages vidéo 
