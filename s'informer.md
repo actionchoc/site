@@ -57,6 +57,31 @@ Malgré le caractère novateur et de cette loi européenne, plusieurs lacunes so
 Les problématiques liées au cacao sont multiples : atteinte à l’environnement et aux droits de l’Homme et des enfants. Les mécanismes qui créent ces violations sont complexes. 
 Les causes ne sont pas liées à un seul acteur mais à toute une chaîne. Le pouvoir de changement se trouve principalement du côté des grandes entreprises et des états. Il semblerait que ceux-ci tardent à réagir face aux injustices. Peut-être y a-t-il trop d’intérêts en jeu pour initier les changements nécessaires. Il est temps que la population fasse pression sur les entreprises et sur l’État pour qu’ils prennent leurs responsabilités. 
 
+### La production de chocolat : un modèle colonial qui perdure
+août 2023
+
+Au 19ème siècle, en pleine colonisation africaine, les fabriques de chocolat se développent en Europe et en Suisse. Nestlé et Cailler voient le jour à Vevey et utilisent des matières premières issues de l'exploitation des personnes en Afrique. Aujourd’hui, que reste-t-il du commerce triangulaire ayant permis la production de chocolat pendant la colonisation et l’esclavage ?
+
+Lorsque le cacaoyer cultivé par les Mésoaméricains réduits en l’esclavage n’a plus suffi à satisfaire la demande (celle-ci ayant explosé grâce à l’industrialisation des procédés), le cacaoyer a été exporté en Afrique, où il a été cultivé de manière intensive par les peuples africains, asservis par les royaumes belges et français (source 3).
+
+La production mondiale de cacao pour la saison 2021-2022 était de 4,9 millions de tonnes de cacao (source 2). Ce chiffre n’a fait qu'augmenter depuis 40 ans. Le cacao est produit par 5 millions de cacaoculteur-ices de petite taille en Afrique et en Amérique centrale, vendu à une quinzaine de multinationales et consommé majoritairement en Europe et en Amérique du Nord. En Suisse se trouvent trois des plus grandes entreprises actrices dans le domaine du chocolat : Nestlé, Lindt & Sprüngli et Barry Callebaut (source 1).
+
+Aujourd’hui, le modèle des monocultures créé pendant le colonialisme perdure, afin de produire du cacao à bas prix pour les multinationales suisses, européennes et américaines. Ce modèle détruit les écosystèmes locaux. Depuis 1990, la Côte d’Ivoire, premier producteur mondial de cacao, a perdu 90% de ses forêts (source 4). Les forêts vierges dans les zones “protégées” ne sont pas épargnées. Et la demande en chocolat continue d'augmenter.
+
+L’utilisation de pesticides nocifs se répand pour lutter contre les maladies et ravageurs s’attaquant aux monocultures. Les conséquences de la déforestation sont considérables à la fois au niveau local (diminution des pluies, dégradations des sols, chute de la biodiversité) qu’au niveau mondial (impact sur le climat).
+
+Les cacaoculteur-ices de la Côte d’Ivoire et du Ghana vivent en dessous du seuil de pauvreté. Le baromètre du cacao estime qu’ils-elles se situent environ à 50 % en dessous du revenu vital (source 1). Dans le marché mondial tel qu’il est conçu, les cacaoculteur-ices n’ont pas de pouvoir décisionnaire sur le prix. Or une rémunération supérieure du cacao (environ 3 dollars/kg) leur permettrait d’atteindre ce revenu minimum vital (source 1).
+
+Ces conditions poussent les cacaoculteur-ices à utiliser de la main-d’œuvre bon marché, y compris des enfants, qui ne peuvent aller à l’école. Près de 1,5 million d’enfants travaillent dans la production de cacao en Côte d’Ivoire et au Ghana (source 1).
+
+Les fèves ainsi produites sont vendues aux entreprises négociantes et chocolatières, qui n'assurent pas une traçabilité complète de la chaîne d’approvisionnement.
+
+Cette catastrophe sociale et écologique est connue depuis plusieurs années mais est sans cesse mal adressée. L’autorégulation des entreprises, avec la signature du protocole de Harkin-Engel en 2001, ne fonctionne pas (source 5). Les labels sont inefficaces et ne garantissent pas la traçabilité. Reste alors les régulations étatiques, sur lesquelles mettre de l’espoir. En juin 2023, le Parlement européen a adopté le projet sur la responsabilité des multinationales. Les entreprises européennes auront le devoir d’identifier, de prévenir, d’atténuer et de remédier à leurs impacts négatifs sur les droits humains.
+
+La Suisse, quant à elle, est à la traîne et n’a pour le moment pas adopté de lois contraignantes pour les entreprises(source 6). Il serait temps que la Suisse se dote d’une loi efficace pour exiger le devoir de vigilance des entreprises.
+
+Le chocolat de Nestlé et de Lindt, précieux symbole de la Suisse, est tout à fait symptomatique des atrocités que notre pays cautionne sous prétexte de liberté commerciale. Le maintien de la pauvreté des pays africains par un marché non régulé, le travail des enfants dans les champs pour produire pour les pays “développés”, la détérioration des écosystèmes des pays tropicaux, les dérèglements climatiques liés à la déforestation, tout cela n’est que symptômes du colonialisme actuel auquel la Suisse prend part.
+
 ## Bibliographie pour aller plus loin
 
 ### Articles disponible sur le web
@@ -67,13 +92,11 @@ Les causes ne sont pas liées à un seul acteur mais à toute une chaîne. Le po
 
 - Source 4 : Gérand, C (2023), Le Cacao a Dévoré La Forêt Ivoirienne. [article](https://rainforestjournalismfund.org/fr/stories/le-cacao-devore-la-foret-ivoirienne)
 
-- Source 5 : Braunschweig, T & Classen, O. (2020). Travail des enfants sur les plantations de cacao : deux décennies de perdues. [article Public Eye]
-(https://www.publiceye.ch/fr/thematiques/negoce-agricole/travail-des-enfants-sur-les-plantations-de-cacao-deux-decennies-de-perdues)
+- Source 5 : Braunschweig, T & Classen, O. (2020). Travail des enfants sur les plantations de cacao : deux décennies de perdues. [article Public Eye](https://www.publiceye.ch/fr/thematiques/negoce-agricole/travail-des-enfants-sur-les-plantations-de-cacao-deux-decennies-de-perdues)
 
-- Source 6 : Coalition pour des multinationales résponsables. [site] (https://responsabilite-multinationales.ch/) La coalition informe les suisses et les autorités des problématiques grave qui surgissent lorsque les multinationales n'ont pas de régulation pour défendre les droits humains. Elle lance des pétitions et des initiatives sur ce sujet. 
+- Source 6 : Coalition pour des multinationales résponsables. [site](https://responsabilite-multinationales.ch/) La coalition informe les suisses et les autorités des problématiques grave qui surgissent lorsque les multinationales n'ont pas de régulation pour défendre les droits humains. Elle lance des pétitions et des initiatives sur ce sujet. 
 
-- Source 7 : Public Eye dossier sur le cacao [Public Eye] 
-(https://www.publiceye.ch/fr/tag/chocolat) On y trouve quantité d'articles journalistiques de qualité.
+- Source 7 : Public Eye dossier sur le cacao [Public Eye](https://www.publiceye.ch/fr/tag/chocolat) On y trouve quantité d'articles journalistiques de qualité.
 
 
 ### Reportages vidéo 
