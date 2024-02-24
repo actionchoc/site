@@ -31,4 +31,7 @@ Entrée libre, inscription souhaitée pour faciliter l’organisation. Inscripti
 
 
 ## Actions
-Nous avons participé à la manif du climat à Berne le 30 septembre 2023. (https://www.manif-climat.ch/) 
+Nous avons participé à la manif du climat à Berne le 30 septembre 2023. 
+![marche du climat sept 2023]({% link images/CHOCO_2023.09.30_photo manif climat.jpg %})
+
+(https://www.manif-climat.ch/) 
