@@ -7,11 +7,11 @@ in_menu: true
 Plusieurs actions pour informer le grand public sur la problématique du chocolat sont en cours. 
 Un article sur la Gazette d'XR Genève est paru en septembre 2023. Vous pouvez le lire sur le site. Voir : La production de chocolat : un modèle colonial qui perdure
 
+### L’industrie du chocolat à côté de la plaque
+
 Une soirée discussion à Renens aura lieu le 23mars de 17h à 20h 2024.
 
 ![papillon événement]({% link images/CHOCO_2024.02.24_image papillon.png %})
-
-### L’industrie du chocolat à côté de la plaque
 
 Le chocolat c’est bon ! Oui mais à quel prix ? Alors que nous entendons régulièrement des critiques au sujet du marché du chocolat (pauvreté des cacaoculteur-ices, travail d’enfants, déforestation), il est parfois difficile de bien comprendre les enjeux complexes de ce marché. Comment bien se positionner en tant que citoyen-ne, consommateur-ice, parent, croyant-e… ?
 
