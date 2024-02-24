@@ -1,6 +1,7 @@
 ---
 title: "Accueil"
 order: 0
+in_menu: true
 ---
 # _ActionChoc_ Qui sommes nous ?
 Nous cherchons à mettre en lumière et à lutter contre les facteurs conduisant à l'exploitation humaine et de la forêt vierge pour la fabrication de chocolat suisse.
@@ -10,6 +11,23 @@ Nous avons 3 intentions :
 - Insister pour que le gouvernement mette des lois sur le devoir de vigilance.
 - Exiger un paiement correct (3 dollar le kg selon l'estimation du baromètre du cacao en 2022) aux cacaoculteur·ice·s.
 
+## Rencontre chocolat 23 mars 2024 17h-20h : L’industrie du chocolat à côté de la plaque
+
+Le chocolat c’est bon ! Oui mais à quel prix ? Alors que nous entendons régulièrement des critiques au sujet du marché du chocolat (pauvreté des cacaoculteur-ices, travail d’enfants, déforestation), il est parfois difficile de bien comprendre les enjeux complexes de ce marché. Comment bien se positionner en tant que citoyen-ne, consommateur-ice, parent, croyant-e… ?
+
+Étudier le cas du cacao permet aussi de mieux comprendre des mécanismes plus généraux. A l’instar du lithium, de l’or ou du café, il est produit par les pays du Sud et consommé majoritairement dans le pays du Nord.
+
+Suite à une présentation de 30min et un temps de questions, les participant-e-s auront l’occasion d’entamer des discussions par groupe pour partager leurs ressentis, leur point de vue, leurs idées.
+
+
+Programme
+- 17h00-17h15 : Accueil
+- 17h15-19h00 : Présentation de Flavie Bettex et discussions par groupe
+- 19h00-20h00 : Repas : Une soupe et du pain seront apportés par l’équipe d’organisation. Merci à chacun d’apporter un petit élément pour agrémenter
+
+Lieu : Local « La Boussole », Av. de la Gare 3, Renens.
+
+Entrée libre, inscription souhaitée pour faciliter l’organisation. Inscription à : actionchoc-contact@proton.me
 
 # Charte
 Depuis plusieurs années, des associations dénoncent les problématiques sociales et environnementales du cacao. Ces appels à un changement systémique autour du marché du chocolat n’ont pas eu de réponses adaptées.
